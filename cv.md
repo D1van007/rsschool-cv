@@ -1,10 +1,10 @@
 ## Name:
 Dzivin Aliaksandr
-*******
+********
 ## Contacts:
 * d1van28.01.1987@gmail.com 
 * discord - D1van
-*******
+********
 ## About me:
 I want to change my business completely. At the moment, the chief engineer in a construction organization. Very responsible, honest, I communicate well with people. At the moment I want to fulfill my dream and untie myself from my location and become a product wine anywhere in the world.
 *******
