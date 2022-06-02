@@ -50,4 +50,4 @@ Higher education, civil engineer. IT courses: Frucktcode.com
 *******
 ## English:
 A1 with a stretch. All of the above is written with the help of Google translator.
-*******
+**********
