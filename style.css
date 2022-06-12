@@ -1,17 +1,30 @@
-header {
+
+html {
+    scroll-behavior: smooth; 
+  }
+.conteiner {
+    max-width: 1440px;
+    margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
-
-
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
 
 .circulfoto {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     /* overflow: hidden; */
     background: rgb(184, 232, 239);
-    padding: 1px;
+    padding: 3px;
     border-radius: 50%;
     border: rgb(95, 138, 128) 1px solid;
     margin-bottom: 20px;
@@ -25,22 +38,32 @@ header {
 
 }
 
-nav {
+.nav-list {
     font-size: large;
     color: blueviolet;
+    padding: 20px 100px 20px 0px;
+    line-height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    /* align-items: center; */
+    background-color: lightslategrey;
+    height: 100px;
 }
-
+.nav-item {
+    list-style-type: none;
+    
+}
+a:hover {
+    color: blue;
+}
 a {
     text-decoration: none;
     /* border: 1px solid red; */
-    background-color: aqua;
     padding: 5px;
     margin: 10px 0 10px 0;
 }
 
-a:hover {
-    color: blue;
-}
+
 
 article {
     font-size: 20px;
@@ -50,4 +73,50 @@ article {
 section {
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
+    width: 700px;
+}
+li {
+    list-style-type: none;
+}
+
+.section-item {
+    position: relative;
+    padding-left: 20px;
+    
+  }
+
+.section-item::before {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 3px;
+    height: 3px; 
+    border: 1px solid #3c413d;
+    margin-top: 4px;
+   
+
+  }
+p {
+    margin: 0;
+}
+footer {
+    background-color: lightslategrey;
+    height: 150px;
+    display: flex;
+    flex-direction: wrap;
+    justify-content: space-between;
+    min-height: 10vh;
+    margin: 0px;
+    padding: 20px 100px 20px 100px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.footer-logo {
+    max-width: 180px;
+    margin: 0px;
+
+}
+.footer-RSS {
+    margin-top: 20px;
 }
