@@ -2,14 +2,16 @@
 Dzivin Aliaksandr
 ********
 ## Contacts:
-* d1van28.01.1987@gmail.com 
-* discord - D1van
+* email: d1van28.01.1987@gmail.com 
+* discord: D1van
+* github: D1van007
+* telegrum: @
 ********
 ## About me:
 I want to change my business completely. At the moment, the chief engineer in a construction organization. Very responsible, honest, I communicate well with people. At the moment I want to fulfill my dream and untie myself from my location and become a product wine anywhere in the world.
 *******
 ## Skils:
-Started learning Html and CSS. About 50 o'clock, and then the war began and he abandoned everything, now he has a second wind.
+Started learning Html and CSS, about 50 o'clock: , and then the war began and he abandoned everything, now he has a second wind.
 *******
 ## Example code:
 * {
